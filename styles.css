@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    width: 100%;
+}
+
+img {
+    width: 450px;
+    height: 350px;
+}
+
+#navbar{
+    position:fixed;
+    top:0;
+    width:100%;
+    font-size: bold;
+  }
+
+  nav ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color:#D53131;
+  }
+
+  li{
+    float:right;
+  }
+
+  li a{
+    display:block;
+    color:white;
+    text-align:center;
+    padding:20px 18px;
+    text-decoration:none;
+  }
+
+  
